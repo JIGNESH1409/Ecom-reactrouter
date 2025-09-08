@@ -21,19 +21,24 @@ Ecom React Router allows users to browse products, view details, and navigate th
 
 ## 🗂️ Folder Structure
 
-public/
-├── movies.png
-└── vite.svg
-
-src/
-├── App.css
-├── App.jsx
-├── Components/
-│ ├── UI/
-│ │ ├── Card.css
-│ │ ├── Card.jsx
-│ │ └── Moviedetail.jsx
-│ └── layout/
+Ecom-reactrouter/
+├── public/
+│   ├── movies.png
+│   └── vite.svg
+│
+└── src/
+    ├── App.css
+    ├── App.jsx
+    ├── Components/
+    │   ├── UI/
+    │   │   ├── Card.css
+    │   │   ├── Card.jsx
+    │   │   └── Moviedetail.jsx
+    │   │
+    │   └── layout/
+    │       └── Applayout.jsx
+    │
+    └── index.js
 │ └── Applayout.jsx
 ├── index.js
 
