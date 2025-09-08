@@ -18,11 +18,9 @@ Prerequisites
 
 Ensure you have the following installed:
 
-Node.js
- (v14 or higher)
+Node.js (v14 or higher)
 
-npm
- (v6 or higher)
+npm (v6 or higher)
 
 Installation
 
@@ -39,7 +37,7 @@ Start the development server:
 npm run dev
 
 
-The application will be accessible at https://reactrouterjignesh.netlify.app/
+The application will be accessible at: https://reactrouterjignesh.netlify.app/
 
 📁 Folder Structure
 Ecom-reactrouter/
@@ -73,8 +71,3 @@ Home: The landing page showcasing featured products.
 About: A page providing information about the application.
 
 Contact: A page with a contact form for user inquiries.
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE
- file for details.
