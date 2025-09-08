@@ -1,73 +1,39 @@
-Ecom React Router
-📦 Project Overview
+# Ecom React Router
 
-Ecom React Router is a modern e-commerce web application built with React and React Router. It showcases dynamic routing, responsive design, and seamless navigation, providing users with an intuitive shopping experience.
+A modern e-commerce web application built with **React** and **React Router**, featuring dynamic routing, responsive design, and seamless navigation for an intuitive shopping experience.
 
-⚙️ Technologies Used
+---
 
-React: A JavaScript library for building user interfaces.
+## 📦 Project Overview
 
-React Router: Declarative routing for React applications.
+Ecom React Router allows users to browse products, view details, and navigate through different pages without page reloads. It demonstrates clean architecture and modern React practices.
 
-Tailwind CSS: A utility-first CSS framework for rapid UI development.
+---
 
-Vite: A next-generation, fast build tool for modern web projects.
+## ⚙️ Technologies Used
 
-🚀 Getting Started
-Prerequisites
+- **React**: For building user interfaces.
+- **React Router**: Declarative routing for single-page applications.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **JavaScript (ES6+)**
 
-Ensure you have the following installed:
+---
 
-Node.js (v14 or higher)
+## 🗂️ Folder Structure
 
-npm (v6 or higher)
-
-Installation
-
-Clone the repository and install dependencies:
-
-git clone https://github.com/JIGNESH1409/Ecom-reactrouter.git
-cd Ecom-reactrouter
-npm install
-
-Running the Application
-
-Start the development server:
-
-npm run dev
-
-
-The application will be accessible at: https://reactrouterjignesh.netlify.app/
-
-📁 Folder Structure
-Ecom-reactrouter/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── Navbar.js
-│   │   ├── ProductList.js
-│   │   └── ...
-│   ├── pages/
-│   │   ├── Home.js
-│   │   ├── About.js
-│   │   └── Contact.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-└── README.md
-
-🧩 Components
-
-Navbar: A responsive navigation bar with links to different pages.
-
-ProductList: Displays a list of products fetched from a mock API or local data.
-
-Home: The landing page showcasing featured products.
-
-About: A page providing information about the application.
-
-Contact: A page with a contact form for user inquiries.
+public/
+│ ├── movies.png
+│ └── vite.svg
+src/
+│ ├── App.css
+│ ├── App.jsx
+│ ├── Components/
+│ │ ├── UI/
+│ │ │ ├── Card.css
+│ │ │ ├── Card.jsx
+│ │ │ └── Moviedetail.jsx
+│ │ └── layout/
+│ │ └── Applayout.jsx
+│ └── index.js
+package.json
+vite.config.js
