@@ -26,21 +26,19 @@ Ecom-reactrouter/
 │   ├── movies.png
 │   └── vite.svg
 │
-└── src/
-    ├── App.css
-    ├── App.jsx
-    ├── Components/
-    │   ├── UI/
-    │   │   ├── Card.css
-    │   │   ├── Card.jsx
-    │   │   └── Moviedetail.jsx
-    │   │
-    │   └── layout/
-    │       └── Applayout.jsx
-    │
-    └── index.js
-│ └── Applayout.jsx
-├── index.js
-
-package.json
-vite.config.js
+├── src/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── Components/
+│   │   ├── UI/
+│   │   │   ├── Card.css
+│   │   │   ├── Card.jsx
+│   │   │   └── Moviedetail.jsx
+│   │   │
+│   │   └── layout/
+│   │       └── Applayout.jsx
+│   │
+│   └── index.js
+│
+├── package.json
+└── vite.config.js
