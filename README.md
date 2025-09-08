@@ -39,7 +39,7 @@ Start the development server:
 npm run dev
 
 
-The application will be accessible at http://localhost:5173.
+The application will be accessible at https://reactrouterjignesh.netlify.app/
 
 📁 Folder Structure
 Ecom-reactrouter/
